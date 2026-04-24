@@ -5,7 +5,7 @@ A modern, responsive portfolio website built to showcase my data science project
 ---
 
 ## 🚀 Live Demo
-(Add your deployed link here)
+shalini-nadar-portfolio.netlify.app
 
 ---
 
